@@ -23,5 +23,3 @@ cd frontend
 npm install
 npm run dev
 
-## Live URL
-<add later>
